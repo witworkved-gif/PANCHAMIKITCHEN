@@ -1,0 +1,6 @@
+{
+  "name": "Panchami Kitchen Idli Street",
+  "description": "Authentic vegetarian South Indian, Andhra and Telangana home-style cuisine in Solapur, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
